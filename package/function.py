@@ -1,7 +1,9 @@
 import numpy as np
 import matplotlib.pyplot as plt
-from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay, roc_curve, roc_auc_score
-def eval_confusion(name,score,ypr,ytest):
+from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay, roc_curve, roc_auc_score,accuracy_score
+
+def eval_confusion(name,ypr,ytest):
+    score = accuracy_score(ytest,ypr)
     print("The score is %f for %s" % (score,name))
     cm = confusion_matrix(ytest, ypr)
     disp = ConfusionMatrixDisplay(confusion_matrix=cm)
