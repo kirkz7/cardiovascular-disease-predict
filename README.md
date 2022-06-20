@@ -16,6 +16,7 @@ Visual Studio Code
 ### Installing
 
 [Anaconda](https://www.anaconda.com)
+
 [Visual Studio Code](https://code.visualstudio.com)
 
 
