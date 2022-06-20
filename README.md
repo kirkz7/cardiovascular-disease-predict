@@ -22,9 +22,13 @@ Visual Studio Code
 ## Authors
 
 Xuning Zhang(Kirk)
+
 Hanyun Guo(Doris)
+
 Xiaowei Zhang(Vivian)
+
 Shuhan Dong(Bella)
+
 Jia Hu (Judie)
 
 ## Acknowledgments
