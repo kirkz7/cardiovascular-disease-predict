@@ -10,7 +10,9 @@ Write Something...An in-depth paragraph about your project and overview of use.
 ### Dependencies
 
 Jupyter Notebook
+
 Anaconda
+
 Visual Studio Code
 
 ### Installing
