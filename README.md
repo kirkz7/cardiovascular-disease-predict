@@ -2,7 +2,7 @@
 
 
 ## Description
-
+Used models to predict the presence or absence of cardiovascular diseases based on 70,000 patients’ health information
 Write Something...An in-depth paragraph about your project and overview of use.
 
 ## Getting Started
