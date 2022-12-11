@@ -3,7 +3,6 @@
 
 ## Description
 Used models to predict the presence or absence of cardiovascular diseases based on 70,000 patients’ health information
-Write Something...An in-depth paragraph about your project and overview of use.
 
 ## Getting Started
 
@@ -24,13 +23,13 @@ Visual Studio Code
 
 ## Authors
 
-Xuning Zhang(Kirk)
+Xuning Zhang (Kirk)
 
-Hanyun Guo(Doris)
+Hanyun Guo (Doris)
 
-Xiaowei Zhang(Vivian)
+Xiaowei Zhang (Vivian)
 
-Shuhan Dong(Bella)
+Shuhan Dong (Bella)
 
 Jia Hu (Judie)
 
