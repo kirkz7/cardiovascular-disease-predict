@@ -2,7 +2,7 @@
 
 
 ## Description
-Used models to predict the presence or absence of cardiovascular diseases based on 70,000 patients’ health information
+Used machine learning models to predict the presence or absence of cardiovascular diseases based on 70,000 patients’ health information
 
 ## Getting Started
 
